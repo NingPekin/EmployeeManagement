@@ -1,0 +1,1 @@
+PartTime [workHours=123.0, hourlyRate=99.1, Payment=9820.81, duratonContract=3.0, PartTimePosition=trainerConsultants, getId()=100, getFn()=ning, getLn()=wei, getSin()=123456789, getEmail()=wn@gmail.com, getAddress()=adowijdo12, getTelephone()=1231]
